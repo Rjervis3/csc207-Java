@@ -1,0 +1,5 @@
+
+
+Approach 1 the new array could be 1 larger than the old array 
+- n additions (to end of array)
+- expand array by 1 each time
